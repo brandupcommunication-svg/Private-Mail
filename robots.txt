@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://privatemail-dom.fr/sitemap.xml
